@@ -1,6 +1,9 @@
 {
   "name": "Parikshe.Api",
   "version": "1.0.0",
+  "author": {
+    "name": "sharath"
+  },
   "description": "Nest TypeScript starter repository",
   "license": "MIT",
   "scripts": {
